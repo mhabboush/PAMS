@@ -1,10 +1,10 @@
 # Patient Appointment Management System (PAMS)
 
-**PAMS** is a system that manage appointments between patients and doctors, allows for ratings and reviews. PAMS focuses in digitizing the process of making appointments with doctors.
+**PAMS** is a system that manages appointments between patients and doctors and allows for ratings and reviews. PAMS focuses on digitizing the process of making appointments with doctors.
 
 ## Installation
 
-- if you want to modify in it, just _clone_ the project and run `npm install`
+- if you want to modify it, just _clone_ the project and run `npm install`
 
 ## Usage
 
